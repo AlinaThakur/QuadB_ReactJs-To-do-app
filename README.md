@@ -19,7 +19,7 @@ OR
 Download zip ==> File Explorer => go to download file => Extract Project => open code in VSCode.
 
 2. Navigate to the project directory :
-    cd react-todo-app
+    cd todo-app
 3. Install Dependencies :
     npm install
 4. Start the development server :
