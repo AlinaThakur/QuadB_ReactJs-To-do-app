@@ -13,8 +13,11 @@ A simple To-Do application built with React, demonstrating the use of React comp
 1. Clone the repository:
    ```bash
    git clone https://github.com/AlinaThakur/QuadB_ReactJs-To-do-app.git
+   
 OR 
-Download zip ==> File Explorer => go to download file => Extract Project => open in VSCode 
+
+Download zip ==> File Explorer => go to download file => Extract Project => open code in VSCode.
+
 2. Navigate to the project directory :
     cd react-todo-app
 3. Install Dependencies :
